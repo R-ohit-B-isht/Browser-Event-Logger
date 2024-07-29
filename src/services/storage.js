@@ -1,4 +1,4 @@
-const serverUrl = 'http://localhost:3000';
+const serverUrl = 'http://localhost:3421';
 
 const excludeFields = (data) => {
   const { code, codeForPlaywright, controls, options, base, ...rest } = data;
